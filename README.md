@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nasry Mansour
 - 👀 I’m interested in Fullstack Web Development, Bitcoin and Blockchain.
-- 🌱 I’m currently learning PhP, Mysql, JS and Smart contracts in Solidity.
+- 🌱 I’m currently developing PhP, Mysql, JS and Smart contracts in Solidity.
 - 💞️ I’m looking to collaborate on Software developments.
 - 📫 How to reach me +255626881232 Whatsapp, @nasrymansour Twitter.
 
